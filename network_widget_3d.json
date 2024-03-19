@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "network_widget_3d/extension": true
+  }
+}
